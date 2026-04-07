@@ -17,7 +17,7 @@
 </p>
 
 <p align="left" style="font-size:20px;">
-  <b style="font-size:22px;">(Advanced)</b>
+  <b style="font-size:22px;">(Master)</b>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26"/> 
   <b style="font-size:22px;">C#</b> —
   <a href="https://visualstudio.microsoft.com/" style="font-size:20px; text-decoration:none;">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="left" style="font-size:20px;">
-  <b style="font-size:22px;">(Intermediate)</b>
+  <b style="font-size:22px;">(Advanced)</b>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26"/> 
   <b style="font-size:22px;">C++</b> —
   <a href="https://visualstudio.microsoft.com/" style="font-size:20px; text-decoration:none;">
