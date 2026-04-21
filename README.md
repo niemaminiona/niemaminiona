@@ -70,9 +70,9 @@
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="36"/> 
         <b style="font-size:22px;">OpenGL</b> —
         <span style="font-size:20px;">
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/> <b style="font-size:22px;">Java</b> 
-          &amp; 
-          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26"/><b style="font-size:22px;">C++</b>
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/> <b style="font-size:22px;">Java (LWJGL3)</b> 
+          ,
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26"/><b style="font-size:22px;"> C++ (GLAD)</b>
         </span>
         </p>
 - <b align="left" style="font-size:38px; font-weight:bold; color:#FFD700; margin-top:20px; margin-bottom:10px;">💾 Data</b>
