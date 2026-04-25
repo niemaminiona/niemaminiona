@@ -75,6 +75,28 @@
           <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26"/><b style="font-size:22px;"> C++ (GLAD)</b>
         </span>
         </p>
+- <b align="left" style="font-size:38px; font-weight:bold; color:#FFD700; margin-top:20px; margin-bottom:10px;">📱 App Development</b>
+  - <p align="left" style="font-size:20px;">
+      <b style="font-size:22px;">(Advanced)</b>
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/> 
+      <b style="font-size:22px;">Java Swing</b> —
+      <span style="font-size:20px;">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/> 
+        <b style="font-size:22px;">Java</b>
+      </span>
+    </p>
+        
+   - <p align="left" style="font-size:20px;">
+        <b style="font-size:22px;">(Advanced)</b>
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26"/> 
+        <b style="font-size:22px;">.NET MAUI</b> —
+        <span style="font-size:20px;">
+          <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26"/> 
+          <b style="font-size:22px;">C#</b>
+        </span>
+      </p>
+
+
 - <b align="left" style="font-size:38px; font-weight:bold; color:#FFD700; margin-top:20px; margin-bottom:10px;">💾 Data</b>
      - <p align="left" style="font-size:20px;">
           <b style="font-size:22px;">(Beginner)</b>
