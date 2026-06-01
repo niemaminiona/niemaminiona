@@ -1,3 +1,13 @@
+# 🚀 Main Projects 
+<div align="center"> 
+  
+| Title | Repository | Tech | Status |
+|----------|----------|----------|----------|
+| <details><summary><b>3D Engine</b></summary><br>Custom OpenGL-based 3D <br>engine written from scratch.<br><br>• Scene system<br>• Camera controls<br>• Model loading<br>• Lighting system</details> | [![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github&logoColor=white)](https://github.com/niemaminiona/3D_Engine) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white) | v0.2.2 |
+| <details><summary><b>The Hub</b></summary><br>Central application containing<br>all of my previous Java projects.<br><br>• Unified launcher<br>• Multiple integrated projects<br>• Portfolio showcase<br>• Continuous expansion</details> | [![Repository](https://img.shields.io/badge/View_Repository-181717?logo=github&logoColor=white)](https://github.com/niemaminiona/The_Hub) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-5382A1?logo=java&logoColor=white) | Suspended |
+
+</div>
+
 # 📊 Statistics
 
 <div>
